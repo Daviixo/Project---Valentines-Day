@@ -20,10 +20,10 @@ body {
     text-align: center;
 }
 
-h1 {
+h2 {
     color: #ff69b4;
     margin-bottom: 20px;
-    font-size: 2.5em;
+    font-size: 2.0em;
 }
 
 #mensaje {
